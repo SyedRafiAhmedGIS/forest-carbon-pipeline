@@ -1,0 +1,9 @@
+*.tif
+*.tiff
+upload/
+quarantine/
+quarantine_test/
+__pycache__/
+.ipynb_checkpoints/
+.env
+output_metadata.json

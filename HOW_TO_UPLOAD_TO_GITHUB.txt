@@ -1,0 +1,9 @@
+Upload to GitHub (5 Mins)
+
+Username SyedRafiAhmedGIS is already wired. No find-and-replace needed.
+
+cd forest-carbon-pipeline
+git init && git add . && git commit -m 'Initial commit'
+git branch -M main
+git remote add origin https://github.com/SyedRafiAhmedGIS/forest-carbon-pipeline.git
+git push -u origin main

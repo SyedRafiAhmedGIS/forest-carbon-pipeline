@@ -1,0 +1,3 @@
+plot_id,lat,lon,tree_cbh_cm,tree_height_m,species_type,density_class
+P001,26.85,80.95,45.2,12.5,Teak,VDF
+P002,26.86,80.96,32.1,9.8,Sal,MDF
